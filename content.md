@@ -3,7 +3,7 @@
 ![Image](Spacebtween.png)
 [Link to the test file for a failure-inducing input1:](https://github.com/Yumei0422/markdown-parse/blob/main/file3.md)
 
-Output of the command ![Image](runningoutputerror1.png)
+**Output of the command** ![Image](runningoutputerror1.png)
 
 **Explanation**
 
@@ -13,7 +13,7 @@ The link in the file is invalid as there space and character between the bracket
 ![Image](validafterinvalid.png)
 [Link to the test file for a failure-inducing input2:](https://github.com/Yumei0422/cse15l-lab-reports-2/blob/main/file4.md)
 
-Output of the command ![Image](error2.png)
+**Output of the command** ![Image](error2.png)
 
 **Explanation**
 
@@ -24,7 +24,7 @@ There's a valid link after two invalid links so the program should print only th
 ![Image](codechange3.png)
 [Link to the test file for a failure-inducing input3:](https://github.com/Yumei0422/CSE15L-TheLunaMoths/blob/main/test-file8.md)
 
-Output of the command ![Image](error3.png)
+**Output of the command** ![Image](error3.png)
 
 **Explanation**
 
