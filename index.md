@@ -1,3 +1,4 @@
+[Lab Report 2](content.md)
 # Lab report 2 
 ## Code change 1:
 ![Image](Spacebtween.png)
